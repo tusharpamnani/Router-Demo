@@ -98,7 +98,7 @@ Follow these steps to set up your development environment on Windows:
 
 ---
 
-## Contract Interaction
+## Feedback Form 
 
 Once deployed, fill up the form by adding your contract hash to the [form](https://forms.gle/kds1BA37RKAxm3267)
 
