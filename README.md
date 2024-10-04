@@ -100,7 +100,7 @@ Follow these steps to set up your development environment on Windows:
 
 ## Contract Interaction
 
-Once deployed, you can interact with the Tic-Tac-Toe contract on Router Chain through the provided contract address. The contract allows players to make moves and determine the winner based on the game state.
+Once deployed, fill up the form by adding your contract hash to the [form](https://forms.gle/kds1BA37RKAxm3267)
 
 ---
 
