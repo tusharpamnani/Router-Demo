@@ -106,6 +106,5 @@ Once deployed, you can interact with the Tic-Tac-Toe contract on Router Chain th
 
 ## Additional Resources
 
-- [Router Protocol Documentation](https://docs.routerprotocol.com/)
+- [Router Protocol Documentation](https://courses.routerprotocol.com/building-on-router-chain/module-1/)
 - [Rust Documentation](https://doc.rust-lang.org/book/)
-- [Wasm for Rust](https://rustwasm.github.io/docs.html)
